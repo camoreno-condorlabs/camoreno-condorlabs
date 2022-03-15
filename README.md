@@ -88,7 +88,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 <a href="#">
-  <img align="left" src="https://github.com/DoctorDraxter/DoctorDraxter/blob/output/github-contribution-grid-snake.gif" width="650" height="200" />
+  <img align="left" src="https://github.com/DoctorDraxter/DoctorDraxter/blob/output/github-contribution-grid-snake.gif" width="600" height="200" />
   <img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" />
 </a>
 
